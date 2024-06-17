@@ -1,0 +1,9 @@
+.ul {
+  margin-top: 80px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: flex-end;
+  justify-content: center;
+  gap: 60px;
+}

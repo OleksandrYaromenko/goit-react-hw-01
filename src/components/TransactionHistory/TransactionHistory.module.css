@@ -1,0 +1,24 @@
+.conteiner {
+  margin-top: 80px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-around;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+table {
+  border-collapse: collapse;
+  width: 800px;
+}
+
+th,
+td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+  background-color: coral;
+}
